@@ -1,0 +1,7 @@
+<resources>
+    <string name="hello_world">Привет мир!</string>
+    <string name="app_name">ЛофтДеньги</string>
+    <string name="editText_name_hint">Название</string>
+    <string name="editText_cost_hint">Цена</string>
+    <string name="addButton_title">Добавить</string>
+</resources>
